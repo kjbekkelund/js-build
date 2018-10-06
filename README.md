@@ -15,7 +15,7 @@ The app
 Testing
 -------
 
-* [Jasmine](http://pivotal.github.com/jasmine/) for tests
+* [Jasmine](https://jasmine.github.io/) for tests
 * [Sinon](http://sinonjs.org) for test spies, stubs and mocks
 * [Karma](http://karma-runner.github.com/) to run tests
 * [PhantomJS](http://phantomjs.org/) for headless testing
